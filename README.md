@@ -15,7 +15,7 @@ Ein paar kurze Infos zu mir:
 - 🏸 Hobbies: Badminton, Kraftsport, Tischtennis
 
 
-Freut mich, dass du vorbeischaust!
+Freut mich, dass du vorbeischaust! ☺️
 
 ---
 💥💥💥 ~~[Hier geht´s zu meinem Portfolio-Projekt](https://github.com/fpohl1s/Portfolio-Projekt-Web-Scraper) ~~ 💥💥💥
