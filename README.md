@@ -1,6 +1,6 @@
 # Hallo, ich bin Ferdinand!
 
-Seid über 2 Jahren habe ich verschiedenste Datenprojekte beruflich und als Hobby umsetzen können. Dabei macht mir besonders Spaß, reale Problemstellungen bearbeiten zu können und dadurch Mehrwerte zu schaffen.
+Seit über 2 Jahren habe ich verschiedene Datenprojekte beruflich und als Hobby umsetzen können. Dabei macht mir besonders Spaß, reale Problemstellungen bearbeiten zu können und dadurch Mehrwerte zu schaffen.
 
 Ein paar kurze Infos zu mir:
 
@@ -8,7 +8,8 @@ Ein paar kurze Infos zu mir:
     > M.Sc. E-Commerce  
     > B.Sc. Betriebswirtschaftslehre
 - 📝 Zertifikate:  
-    > Machine Learning Spezialisierung
+    > Machine Learning Spezialisierung  
+    > Tableau Spezialisierung
 - 💬 Programmiersprachen: Python, SQL
 - 📗 Bibliotheken: Pandas, PySpark, NumPy, SQLAlchemy, Matplotlib, Seaborn ..
 - 📫 Kontakt: [LinkedIn](https://www.linkedin.com/in/ferdinand-pohl-7384261a6/)
