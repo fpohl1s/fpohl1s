@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hallo, ich bin Ferdinand!
 
-<!--
-**fpohl1s/fpohl1s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Seid über 2 Jahren habe ich verschiedenste Datenprojekte beruflich und als Hobby umsetzen können. Dabei macht mir besonders Spaß, reale Problemstellungen bearbeiten zu können und dadurch Mehrwerte zu schaffen.
 
-Here are some ideas to get you started:
+Ein paar kurze Infos zu mir:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧑‍🎓 Ausbildung:  
+    > M.Sc. E-Commerce  
+    > B.Sc. Betriebswirtschaftslehre
+- 📝 Zertifikate:  
+    > Machine Learning Spezialisierung
+- 💬 Programmiersprachen: Python, SQL
+- 📗 Bibliotheken: Pandas, PySpark, NumPy, SQLAlchemy, Matplotlib, Seaborn ..
+- 📫 Kontakt: [LinkedIn](https://www.linkedin.com/in/ferdinand-pohl-7384261a6/)
+- 🏸 Hobbies: Badminton, Kraftsport, Tischtennis
+
+
+Freut mich, dass du vorbeischaust!
+
+---
+💥💥💥 ~~[Hier geht´s zu meinem Portfolio-Projekt]() ~~ 💥💥💥
+
+
