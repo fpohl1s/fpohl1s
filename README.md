@@ -9,7 +9,7 @@ Ein paar kurze Infos zu mir:
     > B.Sc. Betriebswirtschaftslehre
 - 📝 Zertifikate:  
     > Machine Learning Spezialisierung  
-    > Tableau Spezialisierung
+    > Tableau Spezialisierung  
     > Databricks Fundamentals
 - 💬 Programmiersprachen: Python, SQL
 - 📗 Bibliotheken: Pandas, PySpark, NumPy, SQLAlchemy, Matplotlib, Seaborn ..
