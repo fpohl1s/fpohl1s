@@ -10,6 +10,7 @@ Ein paar kurze Infos zu mir:
 - 📝 Zertifikate:  
     > Machine Learning Spezialisierung  
     > Tableau Spezialisierung
+    > Databricks Fundamentals
 - 💬 Programmiersprachen: Python, SQL
 - 📗 Bibliotheken: Pandas, PySpark, NumPy, SQLAlchemy, Matplotlib, Seaborn ..
 - 📫 Kontakt: [LinkedIn](https://www.linkedin.com/in/ferdinand-pohl-7384261a6/)
